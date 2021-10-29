@@ -28,5 +28,5 @@ Vous devez d'abord cliquer sur les branches :
   <a href="https://discord.gg/dDTgDfRY">
   <img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="" width="80" />
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/512px-Patreon_logomark.svg.png" alt="" width="80" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d3/5d/c4/d35dc4b5-2b80-f7a9-2322-2fa31d8e13dd/source/200x200bb.jpg" alt="" width="80" />
 </div>
