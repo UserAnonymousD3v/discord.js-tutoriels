@@ -6,4 +6,6 @@
   <img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="" width="80" />
   </a>
   </div>
+<div align="left">
 #Bienvenue sur mon github !
+</div>
