@@ -28,5 +28,5 @@ Vous devez d'abord cliquer sur les branches :
   <a href="https://discord.gg/dDTgDfRY">
   <img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="" width="80" />
   </a>
-  <img src="https://play-lh.googleusercontent.com/Na6tpXBhckELpKiT8y0rTE6iJeytOHszx3yBdPbVujrjD0uPrZlNq6CgdagSORdhaQ" alt="" width="80" />
+  <img src="https://play-lh.googleusercontent.com/Na6tpXBhckELpKiT8y0rTE6iJeytOHszx3yBdPbVujrjD0uPrZlNq6CgdagSORdhaQ" style="border-radius:24px;" alt="" width="80" />
 </div>
