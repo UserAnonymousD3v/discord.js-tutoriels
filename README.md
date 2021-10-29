@@ -10,7 +10,7 @@
 
 # ⇥ Discord.js-Coding-Tutoriels ⇤
 
-➽ Official GitHub of recon on YouTube, Discord.JS Coding Tutorials v12, 
+➽ GitHub officiel de DashCraft sur YouTube, Discord.JS Coding Tutorials v12,
 
 Bienvenue sur Mon GitHub ! Je fais une Branche pour chaque épisode que je fais sur YouTube ! J'espère que vous l'aimerez les gars! Si vous voulez voir ma playlist que j'ai sur YouTube pour cette série !<br/>https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg
 
